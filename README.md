@@ -78,7 +78,7 @@ This project aims to enhance Gen Z's shopping experience on MYNTRA by focusing o
 
 ## Models and Libraries
 
-- [[Link to LLaVA-HF Model]((https://huggingface.co/llava-hf/llava-1.5-7b-hf))]
+-  (https://huggingface.co/llava-hf/llava-1.5-7b-hf)
 -  [meta-llama/Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)
 
 
