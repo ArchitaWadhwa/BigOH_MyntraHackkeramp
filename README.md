@@ -11,7 +11,7 @@ This project aims to enhance Gen Z's shopping experience on MYNTRA by focusing o
    - Utilizes the `llava-hf/llava-1.5-7b-hf` model to generate detailed captions for items in the user's cart, capturing attributes like color, style, and fabric.
 
 2. **Complementary Item Suggestions with Meta-Llama-3-8B-Instruct**:
-   - Captions are fed into `meta-llama/Meta-Llama-3-8B-Instruct`, trained on fashion data and user purchase history, to suggest complementary items based on style compatibility, color coordination, and fashion trends.
+   - Captions are fed into `mistralai/Mistral-7B-Instruct-v0.3`, trained on fashion data and user purchase history, to suggest complementary items based on style compatibility, color coordination, and fashion trends.
    - The system retrieves previously bought items that match the suggestions for visualization.
 
 3. **Real-Time Outfit Visualization Using U-Net**:
@@ -43,7 +43,7 @@ This project aims to enhance Gen Z's shopping experience on MYNTRA by focusing o
 
 ### 2. Complementary Item Suggestions
 
-- **Model**: `meta-llama/Meta-Llama-3-8B-Instruct`
+- **Model**: `mistralai/Mistral-7B-Instruct-v0.3`
 - **Purpose**: Analyze captions and suggest complementary items.
 - **Criteria**: Style compatibility, color coordination, fashion trends, and user purchase history.
 
@@ -78,8 +78,8 @@ This project aims to enhance Gen Z's shopping experience on MYNTRA by focusing o
 
 ## Models and Libraries
 
--  (https://huggingface.co/llava-hf/llava-1.5-7b-hf)
--  [meta-llama/Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)
+-  https://huggingface.co/llava-hf/llava-1.5-7b-hf
+-  https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3
 
 
 
