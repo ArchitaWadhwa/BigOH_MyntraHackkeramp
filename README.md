@@ -70,10 +70,10 @@ This project aims to enhance Gen Z's shopping experience on MYNTRA by focusing o
 2. Establishes MYNTRA as a trusted fashion destination by providing clear sustainability information.
 3. Boosts user engagement and satisfaction through interactive, AI-driven recommendations.
 
-## Feasibility and Scalability
+## Feasibility and Scalability for future Advancements
 
 1. **Feasibility**: Utilizes advanced AI models and existing frameworks for implementation.
-2. **Scalability**: Cloud-based AI services enable handling of increasing user and data volumes.
+2. **Scalability**: Cloud-based AI services could enable handling of increasing user and data volumes.
 3. **Integration**: Seamless integration with MYNTRA's infrastructure allows for continuous updates and improvements.
 
 ## Models and Libraries
